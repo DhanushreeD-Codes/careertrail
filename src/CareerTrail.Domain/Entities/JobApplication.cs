@@ -8,9 +8,9 @@ public class JobApplication
 
     public Guid UserId { get; private set; }
 
-    public string CompanyName { get; private set; }
+    public string CompanyName { get; private set; } = string.Empty;
 
-    public string JobTitle { get; private set; }
+    public string JobTitle { get; private set; } = string.Empty;
 
     public string? JobPostingUrl { get; private set; }
 
