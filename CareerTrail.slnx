@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CareerTrail.Api/CareerTrail.Api.csproj" />
+    <Project Path="src/CareerTrail.Application/CareerTrail.Application.csproj" />
+    <Project Path="src/CareerTrail.Domain/CareerTrail.Domain.csproj" />
+    <Project Path="src/CareerTrail.Infrastructure/CareerTrail.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CareerTrail.IntegrationTests/CareerTrail.IntegrationTests.csproj" />
+    <Project Path="tests/CareerTrail.UnitTests/CareerTrail.UnitTests.csproj" />
+  </Folder>
+</Solution>

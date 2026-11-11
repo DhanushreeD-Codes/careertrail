@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Test results
+TestResults/
+*.trx
+
+# Logs
+*.log
